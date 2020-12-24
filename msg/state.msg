@@ -10,9 +10,3 @@ float32 mpu_az
 float32 mpu_gx
 float32 mpu_gy
 float32 mpu_gz
-float32 fxos_ax
-float32 fxos_ay
-float32 fxos_az
-float32 fxos_mx
-float32 fxos_my
-float32 fxos_mz
